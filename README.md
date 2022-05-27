@@ -5,7 +5,7 @@
 #include <matrix.h>
 
 #define abs(a) (a<0?-a:a)
-/*      Ak, Bk, Ck의 각 방문 비율
+/*      Ak, Bk, Ck의 각 방문 확률
  *      ====================Ak====================
  *      Ak->Ak = 0.1 | Ak->Bk = 0.5 | Ak->Ck = 0.4
  *
